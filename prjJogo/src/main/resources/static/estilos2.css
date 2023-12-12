@@ -1,0 +1,124 @@
+.body{
+    background-color:  #fc768e;
+ }
+ .div1{
+     margin-left: 36%;
+ }
+ .title1{
+     font-size: 45px;
+      margin-left: 36%;
+     text-align: center;
+     color: beige;
+ }
+ .escrita1{
+     color: beige;
+ }
+ *{margin: 0; padding: 0; ;}
+
+body{
+    font-family: 'DM Serif Text', serif;
+}
+/*🔮 menu 🔮 */
+.menusenai{
+    background-color: #000000;
+}
+.menusenai img{
+    width: 200px;
+    margin-left: 15px;
+}
+.menu{
+list-style:none;
+float:left;
+background-color: rgb(144, 132, 140);
+width: 100%;
+font-size: 19px;
+font-family: 'DM Serif Text', serif;
+}
+.menu li{
+    position:relative;
+    float:left;
+}
+.menu li a{
+color:rgba(25, 23, 23, 0.737); 
+text-decoration:none; 
+padding:5px 10px; 
+display:block;
+}
+.menu li a:hover{
+background:rgb(97, 89, 94);
+color:#fff;
+}
+.menu li  ul{
+    position:absolute;
+    top:35px;
+    background-color: rgb(107, 104, 103);
+    display:none;
+}
+.menu li:hover ul, .menu li.over ul{
+    display:block;
+}
+.menu li ul li{
+    border:1px solid #c0c0c0;
+    display:block;
+    width:150px;
+}
+.title1{
+    padding-left: 210%;
+}
+.escrita1 h4{
+    padding-left: 75%;
+    color: beige;
+    font-size: 30px;
+}
+.escrita2{
+    padding-left: 40%;
+    color: beige;
+    font-size: 30px;
+}
+.tomejerry{
+    padding-left: 20%;
+}
+.p1{
+    padding-left: 10%;
+    color: beige;
+    font-size: 18px;
+    padding-right: 47%;
+    text-align: center;
+    position: relative;
+    top: -150px;
+}
+.p2{
+    padding-left: 47%;
+    color: beige;
+    font-size: 18px;
+    padding-right: 10%;
+    text-align: center;
+    position: relative;
+    top: -150px;
+}
+.div2{
+    background-color: #d56565;;
+}
+.title2{
+    font-size: 45px;
+      margin-left: 0%;
+     text-align: center;
+     color: beige;
+}
+.texto{
+    margin-left: 15%;
+    margin-right: 15%;
+    text-align: justify;
+    font-size: 17px;
+    color:beige;
+}
+.imgtom{
+    width: 350px;
+}
+.imgjerry{
+    width: 335px;
+    margin-left: 13%;
+}
+.rodape{
+    background-color: black;
+ }
